@@ -1,0 +1,3 @@
+1. To characterize a listener's audio aura from their top 100 songs in 2018, we calculate the average energy, valence, and danceability of these songs, and the run them through a suitable math function with these parameters. High value in this function might indicate an "upbeat" aura, while low averages suggest a more "relaxed" aura.
+
+2. However, this method might miss some details because it doesn't consider when and why the songs are played or what the lyrics mean. A better way could group songs by similar moods, give more importance to frequently played and recent songs, and look at the lyrics to better capture the listener's true musical tastes.

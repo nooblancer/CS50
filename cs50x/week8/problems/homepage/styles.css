@@ -1,0 +1,30 @@
+.cont {
+    height: 80vh;
+    font-family: "Times New Roman", Times, serif;
+    color: #75a06e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#name {
+    color: #25ffaa;
+    font-size: 50px;
+}
+
+.about {
+    font-family: "Segeo UI";
+    font-size: 25px;
+    color: #528c9a;
+}
+
+
+li:hover {
+    color: #74e2de;
+}
+
+.p {
+    font-size: 30px;
+    padding-left: 20px;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}

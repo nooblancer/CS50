@@ -1,0 +1,11 @@
+This particular week was about SQL. 
+
+And since a few of the database files I worked with were too big, I couldn't upload them in here. 
+Namely two of them.
+
+1. shows.db (used in lecture, which is a database of all the shows on imdb)
+2. movies.db (used in pset problem movies, which is a database of all the movies on imdb)
+
+Due to omission of these, the codes will probably not work.
+Therefore I suggest you not to try. 
+Instead go to my portfolio (which I hopefully have made at the time of your visit) to see my work with SQL.

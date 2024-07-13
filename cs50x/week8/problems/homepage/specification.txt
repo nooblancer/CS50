@@ -1,0 +1,22 @@
+html tags
+1. <p>
+2. <ul>
+3. <li>
+4. <h1>
+5. <h3>
+6. <span>
+7. <img>
+8. <a>
+9. <meta>
+10 <footer>
+
+css properties
+1. font-family
+2. font-size
+3. color
+4. text-shadow
+5. padding (left)
+
+bootstrap: I used 'navbar' to make the navigation bar at the top of my webpages which has all 4 webpages in it.
+
+javascript: I used script to make a typing effect at the homepage which.
